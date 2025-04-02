@@ -1,2 +1,0 @@
-salam
-Test Readme
